@@ -98,6 +98,6 @@ SDFuzz is a directed fuzzing tool driven by target states. SDFuzz uses the targe
 
 - Start the fuzzer
 
-SDFuzz uses the same command line options as other fuzzers. You can specifcy the initial seeds and output directory, etc.
+    SDFuzz uses the same command line options as other fuzzers. You can specify the initial seeds and output directory, etc.
 
 
